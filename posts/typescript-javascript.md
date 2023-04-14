@@ -1,6 +1,6 @@
 ---
 title: "What is the difference between TypeScript and JavaScript?"
-date: "2020-01-01"
+date: "2023-01-01"
 ---
 
 TypeScript and JavaScript are two of the most popular programming languages in use today, and they are often compared and contrasted due to their similarities and differences.
